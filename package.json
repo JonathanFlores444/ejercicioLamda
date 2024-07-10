@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JonathanFlores444/ejercicioLamda#readme",
   "dependencies": {
+    "aws-sdk": "^2.1657.0",
     "express": "^4.19.2"
   }
 }
