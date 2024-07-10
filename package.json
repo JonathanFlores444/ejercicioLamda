@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JonathanFlores444/ejercicioLamda/issues"
   },
-  "homepage": "https://github.com/JonathanFlores444/ejercicioLamda#readme"
+  "homepage": "https://github.com/JonathanFlores444/ejercicioLamda#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
